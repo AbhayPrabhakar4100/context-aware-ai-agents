@@ -1,0 +1,17 @@
+Supervised learning and unsupervised learning are two main categories of machine learning approaches:
+
+1. Supervised Learning:
+- In supervised learning, the algorithm is trained on a labeled dataset, where the input data is paired with the corresponding correct output.
+- The goal of supervised learning is to learn a mapping function from input variables to output labels, enabling the algorithm to make predictions or classify new data.
+- It is typically used for tasks like classification and regression, where the algorithm learns to predict outcomes based on labeled data.
+- Supervised learning requires labeled data for training, and the algorithm aims to minimize the error between predicted and actual outputs during training.
+- Examples of supervised learning algorithms include linear regression, logistic regression, support vector machines, and neural networks.
+
+2. Unsupervised Learning:
+- In unsupervised learning, the algorithm is trained on an unlabeled dataset, where the data is not paired with corresponding output labels.
+- The primary goal of unsupervised learning is to discover patterns, relationships, or structures within the data without explicit guidance on the correct output.
+- Unsupervised learning is commonly used for tasks like clustering, dimensionality reduction, and anomaly detection.
+- This approach is beneficial for exploring and analyzing large volumes of data to extract insights and identify hidden patterns.
+- Examples of unsupervised learning algorithms include k-means clustering, hierarchical clustering, principal component analysis (PCA), and autoencoders.
+
+In summary, supervised learning relies on labeled data to make predictions or classify new instances, while unsupervised learning analyzes unlabeled data to uncover underlying patterns or structures in the data.
