@@ -43,8 +43,3 @@ By grounding large language model outputs in persona-specific knowledge, we asse
 - Integrate with multi-agent simulations for collaborative tasks  
 
 ---
-
-## ⚙️ Setup
-Clone repository:
-```bash
-git clone https://github.com/yourusername/rag-persona-benchmark.git
